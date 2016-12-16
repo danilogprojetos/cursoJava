@@ -1,4 +1,4 @@
-package revisao_geral.heranca;
+package polimorfismo;
 
 public class Funcionario {
 
@@ -15,5 +15,6 @@ public class Funcionario {
 		//Retornando o salario vezes 10%
 		return salario* 0.10;
 	}
+	
 	
 }

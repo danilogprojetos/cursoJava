@@ -1,4 +1,4 @@
-package revisao_geral.heranca;
+package polimorfismo;
 
 public class Gerente extends Funcionario{
 
