@@ -22,6 +22,14 @@ public class Funcionario {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+
+	public void totalDeBonificacao(double d) {
+		
+		
+	}
+
+		
+
 	
 	}
 	

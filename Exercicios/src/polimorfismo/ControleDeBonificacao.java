@@ -2,9 +2,11 @@ package polimorfismo;
 
 public class ControleDeBonificacao {
 
-	double totalDeBonificacoes;
+	double totalDeBonificacoes = 2.5;
 	
-	public void registra(Funcionario a){
+	 double registra(String nome){
+		double salario = totalDeBonificacoes *2;	
+		 return salario;
 		
 	}
 	

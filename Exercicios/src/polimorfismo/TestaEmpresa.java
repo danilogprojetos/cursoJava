@@ -12,6 +12,10 @@ public class TestaEmpresa {
 		Gerente g = new Gerente();
 		g.setNome("Scooby");
 		
+		Funcionario a = new Funcionario();
+		a.totalDeBonificacao(10);
+		System.out.println("total de Bonificação" + a);
+		
 		e.contrata(f);
 		e.contrata(g);
 		
